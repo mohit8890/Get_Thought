@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Get_thought/static/css/main.6d61b2cf.css",
+    "main.js": "/Get_thought/static/js/main.a2b67a2b.js",
+    "index.html": "/Get_thought/index.html",
+    "main.6d61b2cf.css.map": "/Get_thought/static/css/main.6d61b2cf.css.map",
+    "main.a2b67a2b.js.map": "/Get_thought/static/js/main.a2b67a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d61b2cf.css",
+    "static/js/main.a2b67a2b.js"
+  ]
+}
